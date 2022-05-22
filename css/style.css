@@ -1,0 +1,25 @@
+@import url("https://i0.wp.com/handnews.fr/wp-content/uploads/2019/04/AT3W6028.jpg?resize=640%2C427&ssl=1");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family:serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h2 {
+	font-size: 40px;
+}
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	color: 	purple;
+	font-size: 	18px;
+}
+a {
+	text-decoration: none;
+}
